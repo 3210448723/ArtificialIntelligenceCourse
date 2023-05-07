@@ -30,12 +30,12 @@
 
 * 一种能在**不确定**环境中执行**各种拟人任务**并**达到预期目标**的机器
 
-### 人工智能（学科）
+### 人工智能（学科）✦
 
 * 人工智能（学科）是计算机科学中涉及**研究、设计和应用智能机器**的一个**分支**。
 * 近期主要目标在于研究用机器来**模仿和执行人脑的某些智力功能**，并开发相关理论和技术。
 
-### 人工智能（能力）
+### 人工智能（能力）✦
 
 人工智能（能力）是智能机器所执行的通常**与人类智能有关的智能行为**，如判断、推理、证明、识别、感知、理解、通信、设计、思考、规划、学习和问题求解等思维活动。
 
@@ -60,13 +60,13 @@
 
 ## 人工智能的各种认知观
 
-### 对比
+### 对比✦
 
 |                  | 符号主义                             | 连接主义                               | 行为主义                        |
 | ---------------- | ------------------------------------ | -------------------------------------- | ------------------------------- |
 | 认为人工智能源于 | 数理逻辑                             | 仿生学                                 | 控制论                          |
 | 原理             | 基于物理符号系统假设和有限合理性原理 | 基于神经网络及其间的连接机制与学习算法 | 基于控制论及感知—动作型控制系统 |
-| 基本单元         | 符号                                 | 神经元                                 | 感知和行动                      |
+| 基本单元         | 符号                                 | 神经元                                 | （取决于）感知和行动            |
 | 研究方法         | 功能模拟法                           | 结构模拟法                             | 行为模拟法                      |
 
 ### 符号主义/逻辑主义/心理学派
@@ -127,7 +127,7 @@
 
 ### 认知过程
 
-![image-20230429155952826](https://img-blog.csdnimg.cn/fe8d183ee440417b908e9cad9220e2d9.jpeg)
+![image-20230429155952826](https://img-blog.csdnimg.cn/fe00aab1832745b3936389e3c87af0dd.jpeg)
 
 ### 信息处理系统/符号操作系统/物理符号系统
 
@@ -143,6 +143,8 @@
 6. 条件性迁移
 
 ### 假设/假说
+
+> 系统智能 ⇔上述6种功能
 
 * 系统智能，必定具备上述6种功能；
 * 系统具有上述6种功能，能够表现出智能
@@ -283,9 +285,8 @@
 
 ###  1-1 什么是人工智能？试从学科和能力两方面加以说明。
 
-* 从学科角度来看：人工智能是计算机科学中涉及研究、设计和应用智能机器的一个分支。
-  * 它的近期主要目标在于研究用机器来模仿和执行人脑的某些智能功能，并开发相关理论和技术。
-* 从能力角度来看：人工智能是智能机器所执行的通常与人类智能有关的功能，如判断、推理、证明、识别、感知、理解、设计、思考、规划、学习和问题求解等思维活动
+* 从[学科角度](#人工智能（学科）✦)
+* 从[能力角度](#人工智能（能力）✦)
 
 ###  1-5 为什么能够用机器(计算机)模仿人的智能?※
 
@@ -293,7 +294,7 @@
 1. [假设/假说](#假设/假说)
 1. [三个推论](#三个推论)
 
-### 1-6 现在人工智能有哪些学派？它们的认知观是什么？
+### 1-6 现在[人工智能有哪些学派](#人工智能的各种认知观)？它们的认知观是什么？
 
 1. 符号主义(Symbolicism)/逻辑主义(Logicism)/心理学派(Psychlogism)/计算机学派(Computerism)
 
@@ -304,12 +305,12 @@
    * 认为知识是信息的一种形式，是构成智能的基础。
    * 认为人工智能的核心问题是知识表示、知识推理和知识运用。
 
-2. 联结主义(Connectionism)/仿生学派(Bionicsism)/生理学派(Physiologism)
+2. 连接主义(Connectionism)/仿生学派(Bionicsism)/生理学派(Physiologism)
 
    > 其原理主要为神经网络及神经网络间的连接机制与学习算法
 
    * 认为人的思维基元是神经元，而不是符号处理过程。
-   * 认为人脑不同于电脑，并提出联结主义的大脑工作模式，用于取代符号操作的电脑工作模式。
+   * 认为人脑不同于电脑，并提出连接主义的大脑工作模式，用于取代符号操作的电脑工作模式。
 
 3. 行为主义(Actionism)/进化主义(Evolutionism)/控制论学派(Cyberneticsism)
 
@@ -318,7 +319,7 @@
    * 认为智能取决于感知和行动。
    * 认为智能不需要知识、不需要表示、不需要推理；人工智能可以像人类智能一样逐步进化。
    * 认为智能行为只能在现实世界中与周围环境交互作用而表现出来。
-   * 认为符号主义、联结主义对真实世界客观事物的描述及其智能行为工作模式是过于简化的抽象，因而是不能真实地反映客观存在的。
+   * 认为符号主义、连接主义对真实世界客观事物的描述及其智能行为工作模式是过于简化的抽象，因而是不能真实地反映客观存在的。
 
 ### 1-11 人工智能的主要研究和应用领域是什么？其中，哪些是新的研究热点？
 
@@ -367,9 +368,9 @@
 
 ### 举例：15 Puzzle Problem (15数码难题)
 
-![image-20230429201650772](https://img-blog.csdnimg.cn/cd205b19516945dc9fb160ea0c5fe825.jpeg)
+![image-20230429201650772](https://img-blog.csdnimg.cn/97fed6bd4a104e94abd75acb07588f10.jpeg)
 
-![image-20230429201705990](https://img-blog.csdnimg.cn/a4e73cc5a29641d5823017f1fdac7fb4.jpeg)
+![image-20230429201705990](https://img-blog.csdnimg.cn/87c12b71441f410db9b52ce0ce7c61ec.jpeg)
 
 * 状态：棋局
 * 算符
@@ -402,13 +403,15 @@
 
 #### 例题
 
+> 三选一
+
 ##### 例1 路线规划
 
-![image-20230429210011881](https://img-blog.csdnimg.cn/f71f7525b39d4519bb52f93e3f59434d.jpeg)
+![image-20230429210011881](https://img-blog.csdnimg.cn/2c1ffcc2094a4b46ac0c5bc862785e7f.jpeg)
 
-##### 例2 猴子和香蕉问题
+##### 例2 猴子和香蕉问题✦
 
-![image-20230429204112872](https://img-blog.csdnimg.cn/3688cf1f2a454944b2a1490e7fee53a0.jpeg)
+![image-20230429204112872](https://img-blog.csdnimg.cn/b6b4f0930f1d4ced96c73b7e7be90a0b.jpeg)
 
 1. 状态
 
@@ -427,13 +430,13 @@
 
    2. pushbox (V) ：表示猴子把箱子推到水平位置V
 
-      > 要应用算符pushbox（V），就要求规则的左边，猴子与箱子必须在同一位置上，并且，猴子不是箱子顶上。这种强加于操作的适用性条件，叫做产生式规则的先决条件。
+      > 要应用算符pushbox（V），就要求规则的左边，猴子与箱子必须在同一位置上，并且，猴子不是箱子顶上。这种强加于操作的适用性条件，叫做产生式规则的**先决条件**。
 
-      $(W,0,Y,z) \dfrac{pushbox(V)}{} (W,0,Y,z)$
+      $(W,0,W,z) \dfrac{pushbox(V)}{} (V,0,V,z)$
 
    3. climbbox：猴子爬上箱顶
 
-      $(W,0,Y,z) \dfrac{climbbox(V)}{} (W,1,Y,z)$
+      $(W,0,Y,z) \dfrac{climbbox}{} (W,1,Y,z)$
 
    4. grasp：表示猴子摘到香蕉
 
@@ -447,13 +450,13 @@
 
    2. 操作序列集合 F
 
-      {goto(b), pushbox(c), climbbox, grasp}
+      {goto(a),goto(b),goto(c),pushbox(a),pushbox(b),pushbox(c),climbbox,grasp}
 
    3. 目标状态集合 G
 
       {(*c*，1，*c*，1)}
 
-   ![image-20230429211339198](https://img-blog.csdnimg.cn/f3d87a64e77a4019bdcbfcfb21d3bf75.jpeg)
+   ![image-20230429211339198](https://img-blog.csdnimg.cn/a98298927c0b4500853675a4a767f516.jpeg)
 
 ##### 例3 传教士野人问题★
 
@@ -463,20 +466,20 @@
 
 1. 状态
 
-   用一个三元表列(N~x~,N~y~,C)来表示修道士和野人在河的左岸的状态
+   用一个三元表列(N~x~,N~y~,C)来表示修道士和野人在河的右岸的状态
 
-   * N~x~表示修道士在左岸的实际人数
-   * N~y~表示野人在左岸的实际人数
-   * C用来指示船是否在左岸
-     * C=1表示在左岸
-     * C=0表示在右岸
+   * N~x~表示修道士在右岸的实际人数
+   * N~y~表示野人在右岸的实际人数
+   * C用来指示船是否在右岸
+     * C=1表示在右岸
+     * C=0表示在左岸
 
 2. 算符
 
-   1. L(i,j)：表示把i个修道士和j个野人从左岸运输到右岸
-   2. R(i,j)：表示把i个修道士和j个野人从右岸运输到左岸
+   1. L(i,j)：表示把i个修道士和j个野人从右岸运输到左岸
+   2. R(i,j)：表示把i个修道士和j个野人从左岸运输到右岸
 
-   > 约束：i+j <= 2，N~x~ >= N~y~ 
+   > 约束：i+j <= 2，N~x~ >= N~y~， 3-N~x~ >= 3-N~y~ 
 
 3. 状态空间
 
@@ -494,7 +497,7 @@
 
 4. 求解
 
-   ![image-20230429212845418](https://img-blog.csdnimg.cn/14a6d828857f4fd08fb090b520ac5c76.jpeg)
+   ![image-20230429212845418](https://img-blog.csdnimg.cn/fa0b2084343f4bcfa2b4678aa1dd7545.jpeg)
 
    * 从图中可看出四种不同路径，总共有四种答案。
    * 其中：L(1,1)，R(1,0)，L(0,2)，R(0,1)，L(2,0)，R(1,1)，L(2,0)，R(0,1)，L(0,2)，R(0,1)，L(0,2)是算符最少的解之一
@@ -536,7 +539,7 @@
 
 4. 求解
 
-   ![image-20230430114932142](https://img-blog.csdnimg.cn/d85527ab91fc4c759862542f5a8d4a7b.jpeg)
+   ![image-20230430114932142](https://img-blog.csdnimg.cn/befc865806c34fd6991640052783980d.jpeg)
 
    * 用图求法该问题，令横坐标为nY, 纵坐标为nC，可行状态为空心点表示，每次可以在格子上，沿对角线移动一格，也可以沿坐标轴方向移动1 格，或沿坐标轴方向移动2 格。
 
@@ -559,9 +562,9 @@
 
 #### PPT
 
-1. 状态空间法是一种基于解答空间的问题表示和求解方法，它是以状态和操作符为基础的。在利用状态空间图表示时,从某个初始状态开始,每次加一个操作符,递增地建立起操作符的试验序列,直到达到目标状态为止.由于状态空间法需要扩展过多的节点,容易出现“组合爆炸”,因而只适用于表示比较简单的问题。
+1. 状态空间法是一种基于解答空间的问题表示和求解方法，它是以状态和操作符为基础的。在利用状态空间图表示时,从某个初始状态开始,每次加一个操作符,递增地建立起操作符的试验序列,直到达到目标状态为止.由于**状态空间法**需要扩展过多的节点,容易出现“**组合爆炸**",因而只适用于表示比较简单的问题。
 2. 问题归约法从目标（要解决的问题）出发,逆向推理,通过一系列变换把初始问题变换为子问题集合和子子问题集合,直至最后归约为一个平凡的本原问题集合.这些本原问题的解可以直接得到,从而解决了初始问题,用与或图来有效地说明问题归约法的求解途径。
-3. 状态空间法是问题归约法的一种特例。在问题归约法的与或图中,包含有与节点和或节点，而在状态空间法中只含有或节点。
+3. 状态空间法是问题归约法的一种**特例**。在问题归约法的与或图中,包含有**与节点和或节点**，而在状态空间法中只含有**或节点**。
 
 #### chatGPT-4
 
@@ -593,7 +596,7 @@
 
 #### 状态空间法
 
-![image-20230430103558725](https://img-blog.csdnimg.cn/ab815e146d714d7eb6c2690019e59187.jpeg)
+![image-20230430103558725](https://img-blog.csdnimg.cn/77f263b258a641e998e5fc5de9436c3d.jpeg)
 
 #### 问题规约法
 
@@ -605,27 +608,27 @@
   | ---------------- | ---- | ---- | ---- |
   | 圆盘在哪个柱子上 |      |      |      |
 
-  ![image-20230430103720395](https://img-blog.csdnimg.cn/31844b7998b148bc8396133ffac37772.jpeg)
+  ![image-20230430103720395](https://img-blog.csdnimg.cn/f9c2a4a56ebf4b2ba2efe4d12805a967.jpeg)
 
 * 解题过程（3个圆盘梵塔难题）
 
-  ![image-20230430104415329](https://img-blog.csdnimg.cn/12d9e23e2d494fc598a6b026c910cbe6.jpeg)
+  ![image-20230430104415329](https://img-blog.csdnimg.cn/3c0f665fda444fef9562edc25afc7249.jpeg)
 
 * 梵塔问题归约图（与或图）
 
-  ![image-20230430104817337](https://img-blog.csdnimg.cn/567291bc3cec4633a24a300b755a98e3.jpeg)
+  ![image-20230430104817337](https://img-blog.csdnimg.cn/b8860ed0bbed4aaf9c527aa651fe5c7c.jpeg)
 
 ### 相关术语
 
-![image-20230430112615375](https://img-blog.csdnimg.cn/350ce4efd86e4118b98aeb27f4901e8e.jpeg)
+![image-20230430112615375](https://img-blog.csdnimg.cn/fcd23f30a5be40deb1ae8221a4cea12e.jpeg)
 
 #### 与或图/问题归约图/与或树
 
 ##### 定义
 
-![image-20230430105029140](https://img-blog.csdnimg.cn/6d920a8f299c4d50ae903c04217aa141.jpeg)
+![image-20230430105029140](https://img-blog.csdnimg.cn/efe617e4759d4cc4a1387eda759e9475.jpeg)
 
-![image-20230430112356423](https://img-blog.csdnimg.cn/52533c869230450697b89487e7f930c0.jpeg)
+![image-20230430112356423](https://img-blog.csdnimg.cn/9a3f430f8c044efd9ddf61e9b923a293.jpeg)
 
 * 用一个似图结构来表示把问题归约为后继问题的替换集合
 * 由与节点及或节点组成的结构图。
@@ -663,7 +666,7 @@
 * 如果某个非终叶节点含有**或**后继节点，那么**只要有一个**后继节点是**可解**的时，此非终叶节点就是可解的。
 * 如果某个非终叶节点含有**与**后继节点，那么只有其**全部**后继节点为**可解**时，此非终叶节点才是可解的。
 
-![image-20230430113219309](https://img-blog.csdnimg.cn/23494b356f834c39bcf58414065b2c06.jpeg)
+![image-20230430113219309](https://img-blog.csdnimg.cn/9821e0e8c9384573b7b559290d492e34.jpeg)
 
 > 实心节点有解，空心节点无解；标了t的节点是终叶节点，没有标的是非终叶节点。
 
@@ -717,13 +720,13 @@ f(x1,x2,x3,…,xn)
 
 \~：否定（非）\~P
 
-∧：合取（与）PQ
+∧：合取（与）P∧Q
 
-∨：析取（或）PQ
+∨：析取（或）P∨Q
 
-→：蕴涵P→Q(if P then Q）
+⇒：蕴涵P⇒Q(if P then Q）
 
-↔：等价P↔Q
+ ⇔：等价P ⇔Q
 
 #### 量词
 
@@ -749,17 +752,17 @@ $\forall $（存在量词）：“有些”、“至少一个”、“存在”
 
 * 原子谓词公式是合式公式。
 * 若A为合式公式，则～A也是一个合式公式。
-* 若A和B都是合式公式，则(A∧B)，(A∨B)，(A → B)和(A←→B)也都是合式公式。
+* 若A和B都是合式公式，则(A∧B)，(A∨B)，(A ⇒ B)和(A ⇔B)也都是合式公式。
 * 若A是合式公式，x为A中的自由变元，则(∀ x)A和(ョ x)A都是合式公式。
 * 只有按上述规则求得的那些公式，才是合式公式。
 
 ###### 真值表
 
-![image-20230501095904006](https://img-blog.csdnimg.cn/493b21cc620d4b19974bd837013bae4c.jpeg)
+![image-20230501095904006](https://img-blog.csdnimg.cn/e055bf12d8b045419e8daa371df380ec.jpeg)
 
 ###### 性质
 
-![image-20230501100958717](https://img-blog.csdnimg.cn/b0b85c22d29e408f8dcd9b969df0cc9d.jpeg)
+![image-20230501100958717](https://img-blog.csdnimg.cn/469f95484faa42f09bbdb40cb88469af.jpeg)
 
 ###### 等价
 
@@ -781,17 +784,17 @@ $\forall $（存在量词）：“有些”、“至少一个”、“存在”
 
 #### 假元推理
 
-![image-20230501101649284](https://img-blog.csdnimg.cn/8e62bc6496ad4792a7deb9d837ebf36f.jpeg)
+![image-20230501101649284](https://img-blog.csdnimg.cn/e07273bb7a534db79d90c2d61999711b.jpeg)
 
 由合式公式 W~1~ 和 W~1~ $\Rightarrow$ W~2~ 产生合式公式 W~2~ 
 
 #### 全称化推理
 
-![image-20230501101638121](https://img-blog.csdnimg.cn/78fac3bca6234b959c178e7741271071.jpeg)
+![image-20230501101638121](https://img-blog.csdnimg.cn/b8d10a5db1af4df6b006904382b50817.jpeg)
 
 #### 综合推理
 
-![image-20230501101810002](https://img-blog.csdnimg.cn/b1c2899c4571403fad2fbc3274ef2777.jpeg)
+![image-20230501101810002](https://img-blog.csdnimg.cn/1225f0cb5ea647f48582184945dde5c3.jpeg)
 
 #### 置换
 
@@ -801,7 +804,7 @@ $\forall $（存在量词）：“有些”、“至少一个”、“存在”
 
 ##### 举例
 
-![image-20230501101943074](https://img-blog.csdnimg.cn/d4efca347fc64edc8a2b80fda7e15463.jpeg)
+![image-20230501101943074](https://img-blog.csdnimg.cn/2ff7b49e5ba04909a0bf88074c7f1e95.jpeg)
 
 ##### 性质
 
@@ -828,7 +831,7 @@ s称为{E i}的合一者。
 
 ##### 举例
 
-![image-20230501102954937](https://img-blog.csdnimg.cn/db5a4fea21bb4b09b8c90fa11f178c08.jpeg)
+![image-20230501102954937](https://img-blog.csdnimg.cn/94f124cdf6834dbdaa36acec9e949f4b.jpeg)
 
 ##### mgu
 
@@ -861,7 +864,7 @@ s称为{E i}的合一者。
 
 * 三元组（A，R，B）的图表示：
 
-  ![image-20230501155652273](https://img-blog.csdnimg.cn/36f51b59e10a43d2a73069a47c50a02e.jpeg)
+  ![image-20230501155652273](https://img-blog.csdnimg.cn/852522df79aa4f2cbc5ba225304c16ec.jpeg)
 
 ### 关系
 
@@ -873,7 +876,7 @@ s称为{E i}的合一者。
 
    3. 举例：”小华是一个大学生“
 
-      ![image-20230501160036391](https://img-blog.csdnimg.cn/36a82a1b99ff49bca34b7dcb69e1c15e.jpeg)
+      ![image-20230501160036391](https://img-blog.csdnimg.cn/4859d14a5fda4d19b1b7e8cc71c9e26a.jpeg)
 
 2. 分类关系（从属、泛化）
 
@@ -884,7 +887,7 @@ s称为{E i}的合一者。
       1. 事物间的类属关系；
       2. 类结点与更抽象的类结点之间的联系。
 
-      ![image-20230501160115697](https://img-blog.csdnimg.cn/d1beb5d2e43841d7b8553c848805a216.jpeg)
+      ![image-20230501160115697](https://img-blog.csdnimg.cn/bac7c2e5829f43a09facf72f686a2709.jpeg)
 
 3. 聚集关系（组装）
 
@@ -897,7 +900,7 @@ s称为{E i}的合一者。
 
    3. 特点：各层结点的属性可能很不相同。
 
-      ![image-20230501160315617](https://img-blog.csdnimg.cn/7d6df6d0c12d4d4dbf9a674c54064c28.jpeg)
+      ![image-20230501160315617](https://img-blog.csdnimg.cn/c92aacaa23f84fa9b6a190af54e1ac89.jpeg)
 
 4. 属性关系
 
@@ -910,9 +913,9 @@ s称为{E i}的合一者。
 
       如右图的语义网络：表示sumon是一个人，男性，40岁，职业是教师。
 
-      ![image-20230501160503482](https://img-blog.csdnimg.cn/4cebc811bf9740b4967055a377dcf770.jpeg)
+      ![image-20230501160503482](https://img-blog.csdnimg.cn/17e2d37d81934267b4a7541124f2e1b7.jpeg)
 
-5. 集合与成员关系：
+5. 集合与成员关系
 
    1. 定义
 
@@ -923,13 +926,13 @@ s称为{E i}的合一者。
 
       “张三是计算机学会会员”可表示为下图
 
-      ![image-20230501160610117](https://img-blog.csdnimg.cn/bb450c5aeff446829dcffb7ab92a749c.jpeg)
+      ![image-20230501160610117](https://img-blog.csdnimg.cn/4dbdfc2a29a54bfd9f1f7ef62806fe8e.jpeg)
 
 6. 逻辑关系
 
    如果一个概念可由另一个概念推出，两个概念之间存在因果关系，则称它们之间是逻辑关系。
 
-   ![image-20230501160647906](https://img-blog.csdnimg.cn/9a4d2370eee44dfc944ddcda477c1e6a.jpeg)
+   ![image-20230501160647906](https://img-blog.csdnimg.cn/706402cd4e9f4607bfd7e47b34797fde.jpeg)
 
 7. 方位关系
 
@@ -941,7 +944,7 @@ s称为{E i}的合一者。
 
       张宏是石油学院的一名助教；石油学院位于西安市电子二路； 张宏今年25岁。可用下图所示的语义网络表示。
 
-      ![image-20230501160754082](https://img-blog.csdnimg.cn/aa0258476d764184a7d3db143dc3aa77.jpeg)
+      ![image-20230501160754082](https://img-blog.csdnimg.cn/6f495a7b0d5b4961a8b071998e47779a.jpeg)
 
 8. 所属关系
 
@@ -953,7 +956,7 @@ s称为{E i}的合一者。
 
       “狗有尾巴”可表示为
 
-      ![image-20230501160844717](https://img-blog.csdnimg.cn/3029c9ad4e594be2a3851c9e6b4057ea.jpeg)
+      ![image-20230501160844717](https://img-blog.csdnimg.cn/fcdb64bdcd254349bc1247e7a00eca2c.jpeg)
 
 ### 二元语义网络
 
@@ -964,13 +967,13 @@ s称为{E i}的合一者。
 
 #### 概念节点与实例节点
 
-![image-20230501161303014](https://img-blog.csdnimg.cn/d3b470f5c0ac4e21939f144d2f4a0cc3.jpeg)
+![image-20230501161303014](https://img-blog.csdnimg.cn/a1f060f9f1db46ccaf631f45504ceefb.jpeg)
 
 ### 多元语义网络
 
 #### 表式
 
-![image-20230501162340483](https://img-blog.csdnimg.cn/7d912866d8fe407aa766998673c53fab.jpeg)
+![image-20230501162340483](https://img-blog.csdnimg.cn/4cfe92edecc24da8ba63327f42d15e2e.jpeg)
 
 1. 语义网络可以毫无困难地表示二元关系
 2. 语义网络从本质上只能表达二元关系
@@ -984,7 +987,7 @@ s称为{E i}的合一者。
 
 2. 语义网络表示
 
-   ![image-20230501162459991](https://img-blog.csdnimg.cn/2dbe33c477f04a99969d6e2596a1914c.jpeg)
+   ![image-20230501162459991](https://img-blog.csdnimg.cn/c8acb8686e544c14b981e5a073138b40.jpeg)
 
 #### 推理过程
 
@@ -1003,7 +1006,7 @@ s称为{E i}的合一者。
 
 3. 举例：积木语义网络描述 
 
-   ![image-20230501163026019](https://img-blog.csdnimg.cn/89c2ac06fb2e4f0886d6a4e38cfd7425.jpeg)
+   ![image-20230501163026019](https://img-blog.csdnimg.cn/93fc99d493cf443d8e810c79099aed91.jpeg)
 
    * 实例对象Wedge18继承Wedge的Shape（外形槽）的槽值：三角形。
    * 实例对象Brick12继承Brick的Shape（外形槽）的槽值：矩形
@@ -1014,7 +1017,7 @@ s称为{E i}的合一者。
 
 2. 举例：根据体积和物质的密度来计算积木的质量
 
-   ![image-20230501163558125](https://img-blog.csdnimg.cn/7cc2a7c016a848919b18682b0b3bd0cb.jpeg)
+   ![image-20230501163558125](https://img-blog.csdnimg.cn/33bc00f76db4463495b9166d50d0b644.jpeg)
 
 ###### ”缺省”继承
 
@@ -1027,7 +1030,7 @@ s称为{E i}的合一者。
 
    下图的语义网中，积木的颜色可能是蓝色的，但长方体积木的子类中，可能的颜色是红色。在BLOCK和BRICK结点的COLOR槽的面是DEFAULT面，图中用括号表明之。
 
-   ![image-20230501163817520](https://img-blog.csdnimg.cn/a6fbba76a0d341a884c5b219b8dc455f.jpeg)
+   ![image-20230501163817520](https://img-blog.csdnimg.cn/05b224ca79de4d41a582d1ca5675c988.jpeg)
 
 ##### 匹配
 
@@ -1037,23 +1040,25 @@ s称为{E i}的合一者。
 
 ###### 举例
 
-1. 由于 TOY-HOUSE77 是 TOY-HOUSE 的一个实例 , 所以它必须有两个部件 , 一个是砖块 , 另一个是楔块 (wedge) 。另外 , 作为玩具房的一个部件的砖块必须 支撑楔块。在图中 , 玩具房 -77 部件以及它们之间的链 , 都用虚线画的节点和箭头来表示。因为这些知识是通过继承而间接知道的 , 并不是通过实际的节点和链直接知道的。因此，虚线所表示的节点以及箭头所表示的链是虚节点和虚链。
+1. 由于 TOY-HOUSE77 是 TOY-HOUSE 的一个实例 , 所以它必须有两个部件 , 一个是砖块 , 另一个是楔块 (wedge) 。另外 , 作为玩具房的一个部件的砖块必须 支撑楔块。在图中 , 玩具房 -77 部件以及它们之间的链 , 都用虚线画的节点和箭头来表示。因为这些知识是**通过继承而间接知道**的 , 并不是通过实际的节点和链直接知道的。因此，虚线所表示的节点以及箭头所表示的链是虚节点和虚链。
 
-   ![image-20230501164335028](https://img-blog.csdnimg.cn/5e9c0543c5514fdfb955efaddd0e5344.jpeg)
+   ![image-20230501164335028](https://img-blog.csdnimg.cn/086ae1f4252c459facf46b0265b7513e.jpeg)
 
 2. 下图中的结构 35(STRUCTURE35)。已知这个结构有两个部件，一 个砖块BRICK12和一个楔块WEDGE18。一旦在STRUCTURE35和TOY-HOUSE之间放上ISA链，就知道BRICK12必须支撑WEDGE18。在上图中用虚线箭头表示BRICK12和WEDGE18 之间的SUPPORT虚链。因为很容易做部件匹配，所以虚线箭头的位置和方向很容易被确定。WEDGE18肯定与作为TOY-HOUSE的一个部件的楔块相匹配，而 BRICK12 肯定与砖块相匹配。
 
-   ![image-20230501164410960](https://img-blog.csdnimg.cn/2b137c0287ef4d7daa9cfa359596d03a.jpeg)
+   ![image-20230501164410960](https://img-blog.csdnimg.cn/5f118edbbe9e4647ba2f2f3126a25a5f.jpeg)
 
 3. 知识库中有赵云所在学校的语义网络片断，赵云是一个学生，他在东方大学上学，他入校的时间是2020年，将以上知识构造一个语义网络片断（目标网络），并匹配推理出赵云主修的课程是什么？
 
-   ![image-20230501164457798](https://img-blog.csdnimg.cn/ca88b290077b4c41aa2c795172e77283.jpeg)
+   ![image-20230501164457798](https://img-blog.csdnimg.cn/ba54c8221ed44cc692d499d90454498f.jpeg)
 
-### 举例★（三选一）
+### 例题★
+
+> 三选一
 
 #### 小燕从春天到秋天占有一个巢
 
-![image-20230501165334706](https://img-blog.csdnimg.cn/3b94a71d377347c497311bc9d952faa7.jpeg)
+![image-20230501165334706](https://img-blog.csdnimg.cn/2135a8f1cff34139a7ca01dc90647046.jpeg)
 
 #### John给Mary一个礼物
 
@@ -1064,13 +1069,13 @@ s称为{E i}的合一者。
    3. Mary是接受者（Receiver）
    4. Gift则是给出的东西（Thing）
 
-2. 转换为二元关系：Isa(G1,Givig-Event)∧Giver(G1,John)∧Receiver(G1,Mary)∧Thing(G1,Gift)
+2. 转换为二元关系：Isa(G1,Giving-Event)∧Giver(G1,John)∧Receiver(G1,Mary)∧Thing(G1,Gift)
 
 3. 画出多元语义网络
 
-   ![image-20230501165243997](https://img-blog.csdnimg.cn/f539c9e99c814055be0998c0c1fc8ac6.jpeg)
+   ![image-20230501165243997](https://img-blog.csdnimg.cn/c72e7d7a87044b90b2f0a33f0bba802a.jpeg)
 
-#### 内尔是一头大象
+#### 内尔是一头大象✦
 
 Use semantic networks to represent the followings:
 
@@ -1082,7 +1087,7 @@ Use semantic networks to represent the followings:
 6. Mammals and reptiles are both animals, 
 7. all animals have head.
 
-![image-20230501164915999](https://img-blog.csdnimg.cn/f319605637764734a754838abd2c2967.jpeg)
+![image-20230501164915999](https://img-blog.csdnimg.cn/fa348d8b288f4ba49018819f2f9df4df.jpeg)
 
 ## 框架表示、本体技术、过程表示
 
@@ -1100,13 +1105,15 @@ Use semantic networks to represent the followings:
 
 初始状态为1111，目标状态为3333
 
-![image-20230501165947915](https://img-blog.csdnimg.cn/7e003c67473e41e59a1d83d9170cf7f8.jpeg)
+![image-20230501165947915](https://img-blog.csdnimg.cn/207b3cd6730a4b7f92a72517a0a4de63.jpeg)
 
 ### 2-7 用谓词演算公式表示下列英文句子(多用而不是省用不同谓词和项。例如不要用单一的谓词字母来表示每个句子。)
 
+> 考试题目可能会略有修改
+
 A computer system is intelligent if it can perform a task which,if performed by a human, requires intelligence.
 
-#### 方法一
+#### 方法一（推荐）
 
 1. 先定义基本的谓词
 
@@ -1118,7 +1125,11 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 2. 上面的句子可以表达为
 
-   (∀ x){(ョt) (ョy)[HMN(y) ∧PERFORM(y,t) ∧REQUIRE(t) ∧CMP(x) ∧PERFORM(x,t)]→INTLT(x) }
+   (∀ x){(ョt) (ョy)[HMN(y) ∧PERFORM(y,t) ∧REQUIRE(t) ∧CMP(x) ∧PERFORM(x,t)]⇒INTLT(x) }
+   
+   > * t：a task
+   > * x：a computer system
+   > * y：a human
 
 #### 方法二
 
@@ -1130,7 +1141,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 4. I(x):x is intelligent(x是智能的)
 
-   (∀ x)(ョy)((C(x)∧P(x,y)∧P(human,y)∧Q(y))→I(x))
+   (∀ x)(ョy)((C(x)∧P(x,y)∧P(human,y)∧Q(y))⇒I(x))
 
 ### 2-8 把下列语句表示成语义网络描述
 
@@ -1138,7 +1149,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 2. Every cloud has a silver lining.
 3. All branch managers of DEC participate in a profit-sharing plan.
 
-![image-20230501171108546](https://img-blog.csdnimg.cn/d70012d49ada4f9abd3e17e6cdcf8f7c.jpeg)
+![image-20230501171108546](https://img-blog.csdnimg.cn/7381c2c062ad4c46b7e2b0525e4f138b.jpeg)
 
 # 第3章 搜索推理技术
 
@@ -1152,7 +1163,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 ### 分类
 
-![image-20230501172708859](https://img-blog.csdnimg.cn/6b7c496e63bc4b5b93f3d3d1439fdd94.jpeg)
+![image-20230501172708859](https://img-blog.csdnimg.cn/f3e76e662c4f48339c82586dbc7f60a1.jpeg)
 
 1. 按是否使用启发式信息
    1. 盲目搜索
@@ -1177,7 +1188,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 #### 节点的数据结构
 
-![image-20230501173635655](https://img-blog.csdnimg.cn/c1f7b0df79d84579a48610a6ddd52d6f.jpeg)
+![image-20230501173635655](https://img-blog.csdnimg.cn/2234bd1e47544aeab7216c3f9509a684.jpeg)
 
 1. 状态描述
 2. 指针（指明该结点在通向初始结点的父结点）
@@ -1199,7 +1210,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 #### 伪代码
 
-1. G←S0,open ← S~0~;
+1. G←S~0~,open ← S~0~;
 2. closed() ←( );
 3. loop: if open=( ) then return FAIL
 4. n←fisrt(open);
@@ -1218,7 +1229,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 #### 算法流程图
 
-![image-20230501174358341](https://img-blog.csdnimg.cn/673e3debf2a04c3aaf1ffddb87ecddef.jpeg)
+![image-20230501174358341](https://img-blog.csdnimg.cn/82f24b3cdc4a4653b2a06a7ba11f9b9f.jpeg)
 
 ### 无信息搜索/盲目搜索
 
@@ -1234,7 +1245,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 1. 以接近起始节点的程度逐层扩展节点
 2. 没有先验知识
-3. OPEN表是队列
+3. OPEN表是**队列**
 4. CLOSED表是一个顺序表，表中各节点按顺序编号，正被考察的节点在表中编号最大。
 5. 完备性：如果有解，则必能找到
 6. 通用性：广度优先搜索策略与问题无关，具有通用性。
@@ -1242,9 +1253,19 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 ##### 算法框图
 
-![image-20230501175023798](https://img-blog.csdnimg.cn/716b10308fc8422caaabe8a95cb65b4f.jpeg)
+![image-20230501175023798](https://img-blog.csdnimg.cn/f0a8395fb25441b8a46a61ebe943eb77.jpeg)
 
+##### 例题
 
+八数码难题（8-puzzle problem） 
+
+![image-20230502124930042](https://img-blog.csdnimg.cn/e1db97fff73d4879aef50f6d365fea0d.jpeg)
+
+规定：将牌移入空格的顺序为：从空格左边开始顺时针旋转。不许斜向移动，也不返回先辈节点。
+
+从下图（八数码难题的宽度优先搜索树）所示，要扩展26个节点，共生成46个节点之后才求得解（目标节点）。
+
+![image-20230503101055709](https://img-blog.csdnimg.cn/8bca96083f87456a827c705495f2838e.jpeg)
 
 #### 深度优先/纵向搜索
 
@@ -1254,7 +1275,7 @@ A computer system is intelligent if it can perform a task which,if performed by 
 2. OPEN表是栈
 3. CLOSED表是一个顺序表，表中各节点按顺序编号，正被考察的节点在表中编号最大。
 4. 一般不能保证找到最优解。
-5. 当深度限制不合理时，可能找不到解，可以将算法改为可变深度限制，即有界深度优先搜索。
+5. 当深度限制不合理时，可能找不到解，可以将算法改为可变**深度限制**，即有界深度优先搜索。
 6. 最坏情况时，搜索空间等同于穷举。
 
 ##### 深度界限
@@ -1263,19 +1284,24 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 ##### 算法框图
 
-![image-20230501175736441](https://img-blog.csdnimg.cn/870b16cf7f4f43efb0ce98aabb3ddb88.jpeg)
+![image-20230501175736441](https://img-blog.csdnimg.cn/2bd772477be54f53b1e6f0a441e2a610.jpeg)
+
 
 ##### 例题
 
 八数码难题（8-puzzle problem） 
 
-![image-20230502124930042](https://img-blog.csdnimg.cn/2fb085352f5843a48d15879f7c813657.jpeg)
+![image-20230502124930042](https://img-blog.csdnimg.cn/2326e23b988c43b583f7f251744d9f5e.jpeg)
 
 规定：将牌移入空格的顺序为：从空格左边开始顺时针旋转。不许斜向移动，也不返回先辈节点。
 
-从下图（八数码难题的宽度优先搜索树）所示，要扩展26个节点，共生成46个节点之后才求得解（目标节点）。
+###### 深度优先搜索
 
-![image-20230503101055709](https://img-blog.csdnimg.cn/7eaae418e4c74e38829723bd040ec195.jpeg)
+![image-20230506104936995](https://img-blog.csdnimg.cn/e1676d406fb54556b597eb53516c86b2.jpeg)
+
+###### 有界深度优先搜索
+
+![image-20230506104954034](https://img-blog.csdnimg.cn/b0975e5faab04649afd526dda13567fd.jpeg)
 
 #### 等代价搜索
 
@@ -1299,13 +1325,13 @@ A computer system is intelligent if it can perform a task which,if performed by 
 
 ##### 算法框图
 
-![image-20230501180216969](https://img-blog.csdnimg.cn/2e3b1b3de57a4bfbaca50dbfa791bb99.jpeg)
+![image-20230501180216969](https://img-blog.csdnimg.cn/e9826664267c472080aac2b5147148f3.jpeg)
 
 ##### 举例
 
 数字表示两个城市之间的交通费用，即代价。用代价树的宽度优先搜索，求从S市出发到G市，费用最小的交通路线
 
-![image-20230501180648723](https://img-blog.csdnimg.cn/d9b46db06fee4b848a8ab15a8be1ba13.jpeg)
+![image-20230501180648723](https://img-blog.csdnimg.cn/d9d0825c4c7d47249fe3d805a3e3bb2d.jpeg)
 
 ### 启发式搜索
 
@@ -1338,13 +1364,13 @@ f(x)=g(x)
 
 ##### 算法框图
 
-![image-20230501182100705](https://img-blog.csdnimg.cn/b615d9dbe92242baa43d0e7faedd44b1.jpeg)
+![image-20230501182100705](https://img-blog.csdnimg.cn/04b165b466084721a02e2cf472d9fbf7.jpeg)
 
 #### A算法
 
 f(x)=g(x)+h(x)
 
-#### A\*算法✦
+#### A\*算法
 
 > A\*算法只要有解，就一定是最佳解
 
@@ -1361,11 +1387,11 @@ f(x)=g(x)+h(x)
 
 ##### 算法框图
 
-![image-20230501182636160](https://img-blog.csdnimg.cn/93ed4da56ac84ff9b40d856eee1445ed.jpeg)
+![image-20230501182636160](https://img-blog.csdnimg.cn/d4f71758472f42a5a76132ebd5ef33b1.jpeg)
 
-##### 八数码难题
+##### 八数码难题✦
 
-![image-20230502124930042](https://img-blog.csdnimg.cn/e215ddedee5444bdb6a8400c77fafee2.jpeg)
+![image-20230506164005460](https://img-blog.csdnimg.cn/49ed3be4e82e4a31ba6df309c1286521.jpeg)
 
 ###### h(x)=错放棋子数
 
@@ -1380,7 +1406,7 @@ f(x)=g(x)+h(x)
 
 2. 求解过程
 
-   ![image-20230501183102895](https://img-blog.csdnimg.cn/b4b20ee94e7e4aaea7ea4dca10ae93fc.jpeg)
+   ![image-20230501183102895](https://img-blog.csdnimg.cn/15cdbaa1398f46af9d86129c07376744.jpeg)
 
 ###### h(x)=曼哈顿距离
 
@@ -1396,7 +1422,7 @@ f(x)=g(x)+h(x)
 
 2. 求解过程
 
-   ![image-20230503214250489](https://img-blog.csdnimg.cn/c18e9140e2404739bc77f1c525baf22f.jpeg)
+   ![image-20230503214250489](https://img-blog.csdnimg.cn/bbaeb9b07bee4cfbb82623631429c36c.jpeg)
 
 ## 消解原理/归结原理
 
@@ -1414,27 +1440,29 @@ f(x)=g(x)+h(x)
 
 ### 消解的过程
 
-消解规则应用于母体子句对，以便产生倒出
+消解规则应用于母体子句对，以便产生导出
 
-### 子句集的求取（9个步骤）
+### 子句集的求取（9个步骤）★
+
+> 要背熟，做题时要按步骤求解，至少要记得哪一步要干什么
 
 将下列谓词演算公式化为一个子句集 
 
-(∀x)｛P(x) → (∀y)［P(y) → P(f(x,y))］∧ ～(∀y)[Q(x,y) → P(y)］｝｝
+(∀x)｛P(x) ⇒ {(∀y)［P(y) ⇒ P(f(x,y))］∧ ～(∀y)[Q(x,y) ⇒ P(y)］｝｝
 
 1. 消去蕴涵符号
 
-    应用∨和～符号，以～A∨B替换A → B。
+    应用∨和～符号，以～A∨B替换A ⇒ B。
 
-   ![image-20230501194321689](https://img-blog.csdnimg.cn/aef56e8a493c4c1c8aff6860bacc2580.jpeg)
+   ![image-20230501194321689](https://img-blog.csdnimg.cn/5151602e117246afb7c71771fa2d9693.jpeg)
 
 2. 减少否定符号的辖域
 
    每个否定符号～最多只用到一个谓词符号
 
-   ![image-20230501194600808](https://img-blog.csdnimg.cn/bf3d530cb95643f8b97d656e37960062.jpeg)
+   ![image-20230501194600808](https://img-blog.csdnimg.cn/c6937a9f0c0345eeb6a114d6cf61c776.jpeg)
 
-   ![image-20230501194607338](https://img-blog.csdnimg.cn/d35bee86a9754b06ad1e39a926dec5f3.jpeg)
+   ![image-20230501194607338](https://img-blog.csdnimg.cn/c34677e1a2794aa38c986a501c27df0b.jpeg)
 
 3. 对变量标准化
 
@@ -1442,14 +1470,14 @@ f(x)=g(x)+h(x)
 
    (∀x)(P(x)(ョx)Q(x)) $\Rightarrow$ (∀x)P(x)(ョy)Q(y)
 
-   ![image-20230501194707906](https://img-blog.csdnimg.cn/4d876d06d7004eb2892015ea9e12c1f8.jpeg)
+   ![image-20230501194707906](https://img-blog.csdnimg.cn/38add0b3893a4ccdbd8934e9902ef046.jpeg)
 
 4. 消去存在量词ョ
 
    1. 对于**全称量词辖域内的存在量词**，以Skolem函数代替存在量词内的约束变量
    2. 对于自由存在量词，以一个新常量替代
 
-   ![image-20230501195245726](https://img-blog.csdnimg.cn/58498126e4a74ca28d97c2b54933efa6.jpeg)
+   ![image-20230501195245726](https://img-blog.csdnimg.cn/63d65707cd8146bca7b332a153b879e9.jpeg)
 
 5. 化为前束形
 
@@ -1457,33 +1485,33 @@ f(x)=g(x)+h(x)
 
    前束形={前缀}(全称量词串) {母式}(无量词公式)
 
-   ![image-20230501195425198](https://img-blog.csdnimg.cn/46c4405099f545008a2a4ed0ee76be85.jpeg)
+   ![image-20230501195425198](https://img-blog.csdnimg.cn/86e57ec288164f20ac276784b68b36d1.jpeg)
 
 6. 把母式化为合取范式
 
    任何母式都可写成由一些谓词公式和(或)谓词公式的否定的析取的有限集组成的合取。(分配律)
 
-   ![image-20230501200123092](https://img-blog.csdnimg.cn/c1bdde16390c4cf7a5ec5e53d7675f0d.jpeg)
+   ![image-20230501200123092](https://img-blog.csdnimg.cn/2f6747d573484f18b665722dc79416ee.jpeg)
 
-   ![image-20230501200128687](https://img-blog.csdnimg.cn/d2ada1b92f164000b24373669e0fc2d7.jpeg)
+   ![image-20230501200128687](https://img-blog.csdnimg.cn/ea6faa6c9c27429a809c1aa045db7acf.jpeg)
 
 7. 消去全称量词
 
    所有余下的量词均被全称量词量化了。消去前缀，即消去明显出现的全称量词。
 
-   ![image-20230501200003740](https://img-blog.csdnimg.cn/1b52b39ffa5449fe8207a0761a477ab7.jpeg)
+   ![image-20230501200003740](https://img-blog.csdnimg.cn/16ede2f6e09443009a827e2e529e6d94.jpeg)
 
 8. 消去连词符号∧
 
    用{A,B}代替(A∧B)，消去符号∧。最后得到一个有限集，其中每个公式是文字的析取。
 
-   ![image-20230501200032353](https://img-blog.csdnimg.cn/8c71e0d6df97425787c299bb868e7a36.jpeg)
+   ![image-20230501200032353](https://img-blog.csdnimg.cn/b104b22c86f34b61972f6f645a45aaa4.jpeg)
 
 9. 更换变量名称
 
    可以更换变量符号的名称，使一个变量符号不出现在一个以上的子句中。
 
-   ![image-20230501200151807](https://img-blog.csdnimg.cn/2abd56eb17e049dea8db7bbb21f8b338.jpeg)
+   ![image-20230501200151807](https://img-blog.csdnimg.cn/91c4f7b68e7c45d58564d53ad608a810.jpeg)
 
 ### 消解推理规则
 
@@ -1496,31 +1524,35 @@ f(x)=g(x)+h(x)
 
 取两个子句的析取，然后消去互补对，得到消解式
 
-#### 消减式例子
+#### 消减式例子★
+
+> [消解反演求空子句](#消解反演)会要用到
 
 1. 假言推理 Modus ponens
 
-   ![image-20230502093748201](https://img-blog.csdnimg.cn/d76eace4dfad4a2083df4ecaa3378eba.jpeg)
+   ![image-20230502093748201](https://img-blog.csdnimg.cn/3b841662fad0497382e8dc966ed4d82d.jpeg)
 
 2. 合并 Combination
 
-   ![image-20230502093814564](https://img-blog.csdnimg.cn/173c584994d8401dba9cec8a2fd8ad59.jpeg)
+   ![image-20230502093814564](https://img-blog.csdnimg.cn/8bf346b86e7c4176acf7dd834699e372.jpeg)
 
    
 
 3. 重言式 Tautologies
 
-   ![image-20230502093857224](https://img-blog.csdnimg.cn/2600bdf047a44032b9987f04671c0c67.jpeg)
+   ![image-20230502093857224](https://img-blog.csdnimg.cn/4be2abf04393436691c5a14526666512.jpeg)
 
 4. 空子句 NIL Clause：不包含任何文字的子句。
 
    消解过程中出现空子句，说明S中必有矛盾。
 
-   ![image-20230502093740567](https://img-blog.csdnimg.cn/2d10fa329eef4611a65e5370183e9cce.jpeg)
+   ![image-20230502093740567](https://img-blog.csdnimg.cn/9c380b9d45f8476c9e7f47e467bffdf9.jpeg)
 
 5. 链式（三段论） Chain
 
-   ![image-20230502093903632](https://img-blog.csdnimg.cn/094f9ce354c548cc96af7de90bc78aa5.jpeg)
+   > 书上P100的三段论也许有误
+
+   ![image-20230502093903632](https://img-blog.csdnimg.cn/eebb6279494248b8bb6700bb4e8592bc.jpeg)
 
 #### 消减推理过程
 
@@ -1530,7 +1562,7 @@ f(x)=g(x)+h(x)
 
 要把消解推理规则推广到含有变量的子句，必须找到一个作用于父辈子句的**置换**，使父辈子句含有互补文字。
 
-![image-20230502103247307](https://img-blog.csdnimg.cn/1b1e369c560b493c8c72c81f53cecc17.jpeg)
+![image-20230502103247307](https://img-blog.csdnimg.cn/fb778761b0af4360ab2419839641d3fe.jpeg)
 
 #### 消解反演求解过程
 
@@ -1570,12 +1602,12 @@ f(x)=g(x)+h(x)
 
          > 我修改了一下，书上P101答案好像有点问题
 
-         1. 前提：(∀x)[(ョy)(S(x,y) ∧ M(y))] → [(ョy)(I(y) ∧ E(x,y))]
-         2. 结论：～(ョx)I(x) → (∀x)(∀y)(M(y) → ～S(x,y))
+         1. 前提：(∀x)[(ョy)(S(x,y) ∧ M(y))] ⇒ [(ョy)(I(y) ∧ E(x,y))]
+         2. 结论：～(ョx)I(x) ⇒ (∀x)(∀y)(M(y) ⇒ ～S(x,y))
 
       3. 将前提和结论的否定[化为子句集](#子句集的求取（9个步骤）)（考试中化简过程可以省略）
 
-         1. 前提：(∀x)[(ョy)(S(x,y) ∧ M(y))] → [(ョy)(I(y) ∧ E(x,y))]
+         1. 前提：(∀x)[(ョy)(S(x,y) ∧ M(y))] ⇒ [(ョy)(I(y) ∧ E(x,y))]
 
             1. 消去蕴含符号
 
@@ -1618,11 +1650,11 @@ f(x)=g(x)+h(x)
 
                无需此步
 
-         2. 结论的否定：～[～(ョx)I(x) → (∀x)(∀y)(M(y) → ～S(x,y))]
+         2. 结论的否定：～[～(ョx)I(x) ⇒ (∀x)(∀y)(M(y) ⇒ ～S(x,y))]
 
             1. 消去蕴含符号
 
-               1. ～[～(ョx)I(x) → (∀x)(∀y)(～M(y) ∨ ～S(x,y))]
+               1. ～[～(ョx)I(x) ⇒ (∀x)(∀y)(～M(y) ∨ ～S(x,y))]
                2. ～[(ョx)I(x) ∨ (∀x)(∀y)(～M(y) ∨ ～S(x,y))]
 
             2. 减少否定符号的辖域
@@ -1670,7 +1702,7 @@ f(x)=g(x)+h(x)
 
       储蓄问题反演树
 
-      ![image-20230502120203955](https://img-blog.csdnimg.cn/bb95b343b10f4dcfbe9b0fda9a0cc123.jpeg)
+      ![image-20230502120203955](https://img-blog.csdnimg.cn/43b2197edc0f4c38b37e549a6223787a.jpeg)
 
 2. 某公司招聘工作人员，A，B，C三人应试★（B卷考）
 
@@ -1692,7 +1724,7 @@ f(x)=g(x)+h(x)
 
          1. 前提
             1. P(A) ∨ P(B) ∨ P(C)
-            2. (P(A) ∧ ~P(B)) → P(C)
+            2. (P(A) ∧ ~P(B)) ⇒ P(C)
             3. P(B) → P(C)
          2. 结论：P(C)
 
@@ -1710,15 +1742,15 @@ f(x)=g(x)+h(x)
 
          3. 证明 
 
-            ![image-20230502121134918](https://img-blog.csdnimg.cn/02f737bb739c44ad8af621e7b93fad8e.jpeg)
+            ![image-20230502121134918](https://img-blog.csdnimg.cn/7eddf251338f4ddd944a705cd7146c71.jpeg)
 
 3. 设事实的公式集合
 
    1. 前提
 
       1. P
-      2. (P∧Q)→ R
-      3. (S∨T) → Q
+      2. (P∧Q)⇒ R
+      3. (S∨T) ⇒ Q
       4. T
 
    2. 结论：R
@@ -1738,7 +1770,7 @@ f(x)=g(x)+h(x)
 
          > 用一棵树直观地表达消解推理过程
          
-         ![image-20230502122041083](https://img-blog.csdnimg.cn/c5659da9de314c6f96014694bebe3921.jpeg)
+         ![image-20230502122041083](https://img-blog.csdnimg.cn/d4150f07fde740dcb0435a6fbefd868d.jpeg)
 
 4. Happy student
 
@@ -1756,17 +1788,17 @@ f(x)=g(x)+h(x)
 
          1. 前提
 
-            ![image-20230502122542783](https://img-blog.csdnimg.cn/2eb53fed8a2644a0986c39b2e2ab65fa.jpeg)
+            ![image-20230502122542783](https://img-blog.csdnimg.cn/24e6d8ea4cf24b929772fe80f3bba1ab.jpeg)
 
          2. 结论的否定：~Happy（zhang）
 
       2. 将前提和结论的否定[化为子句集](#子句集的求取（9个步骤）)（考试中化简过程可以省略）
 
-         ![image-20230502122751316](https://img-blog.csdnimg.cn/e3b13ef51cf940698e574507726e8480.jpeg)
+         ![image-20230502122751316](https://img-blog.csdnimg.cn/ef42de1a4a734481982c9a73d1f17407.jpeg)
 
       3. 消解演绎树/消解反演树
 
-         ![image-20230502122830292](https://img-blog.csdnimg.cn/cfdc23e3080341df8877cbd84b2ff3e4.jpeg)
+         ![image-20230502122830292](https://img-blog.csdnimg.cn/f283f9969f284de7942246240094175d.jpeg)
 
 ##### 反演求解
 
@@ -1782,35 +1814,37 @@ f(x)=g(x)+h(x)
 
 ###### 例题
 
-1. 
+1. 消减反演
 
    1. 前提
 
-   2. 无论JOHN到哪里，FIDO也就去那里
+      1. 无论JOHN到哪里，FIDO也就去那里
 
-   3. JOHN现在学校里。
+      2. JOHN现在学校里。
 
-   4. 结论：FIDO在什么地方是可以确定的。
+   2. 结论：FIDO在什么地方是可以确定的。
 
-   5. 证明
+   3. 证明
 
       1. 原子公式定义与谓词表示 
 
-         ![image-20230502123804922](https://img-blog.csdnimg.cn/6916d86020a543b2971cf0ca1607b19c.jpeg)
+         ![image-20230502123804922](https://img-blog.csdnimg.cn/7b9364d6e665485086209387cf172c2c.jpeg)
 
       2. 子句集求解
 
-      ![image-20230502123819941](https://img-blog.csdnimg.cn/51ecee0b8e4b4ef092f2233b4c4f6f49.jpeg)
+      ![image-20230502123819941](https://img-blog.csdnimg.cn/b1700fd0bae94f7fb24bce60d4beb41c.jpeg)
 
       3. 消解反演推理
 
-      ![image-20230502123832683](https://img-blog.csdnimg.cn/c8f1b60bab2a43e4b3d0dbaee717024f.jpeg)
+      ![image-20230502123832683](https://img-blog.csdnimg.cn/873ac059c6744ec99be51ced4c651882.jpeg)
 
       4. 结论成立！
 
-2. 无论JOHN到哪里，FIDO也就去那里; JOHN现在学校里。问：FIDO在什么地方？
+2. 反演求解
 
-   ![image-20230502124036272](https://img-blog.csdnimg.cn/bdb24fc8e03e43749ee94af9b56c082e.jpeg)
+   无论JOHN到哪里，FIDO也就去那里; JOHN现在学校里。问：FIDO在什么地方？
+
+   ![image-20230502124036272](https://img-blog.csdnimg.cn/8f80edabd30c4b2392c052804f695096.jpeg)
 
 ### 规则演绎系统...
 
@@ -1823,24 +1857,25 @@ f(x)=g(x)+h(x)
 1. 图搜索的一般过程如下：（描述图搜索（GRAPHSERCH）的一般过程）（用文字或流程图）
 
    1. 建立一个搜索图G(初始只含有起始节点S)，把S放到未扩展节点表中（OPEN表）中。
-
+   
    2. 建立一个已扩展节点表（CLOSED表），其初始为空表。
-
+   
    3. LOOP：若OPEN表是空表，则失败退出。
-
-   4. 选择OPEN表上的第一个节点，把它从OPEN表移出并放进CLOSED表中。称此节点为节点n，它是CLOSED表中节点的编号
-
+   
+   4. 选择OPEN表上的第一个节点，把它从OPEN表移出并放进CLOSED表中。称此节点为节点n
+   
    5. 若n为一目标节点，则有解并成功退出。此解是追踪图G中沿着指针从n到S这条路径而得到的(指针将在第7步中设置)
 
-   6. 扩展节点n，生成不是n的祖先的那些后继节点的集合M。将M添入图G中。对那些未曾在G中出现过的(既未曾在OPEN表上或CLOSED表上出现过的)M成员设置一个通向n的指针，并将它们加进OPEN表。
-
-         1. 对已经在OPEN或CLOSED表上的每个M成员，确定是否需要更改通到n的指针方向。
-
-         2. 对已在CLOSED表上的每个M成员，确定是否需要更改图G中通向它的每个后裔节点的指针方向。
-
-   7. 按某一任意方式或按某个探试值，重排OPEN表。
-
-   8. GO LOOP。
+   6. 扩展节点n，生成后继节点的集合M。
+   
+   7. ：
+   
+      1. 对那些未曾在G中出现过的(既未曾在OPEN表上或CLOSED表上出现过的)M成员设置一个通向n的指针，并将它们加进OPEN表。
+      2. 对已经在OPEN或CLOSED表上的每个M成员，确定是否需要将其原来的父节点改为 n。
+      3. 对已在CLOSED表上的每个M成员，若修改了其父节点，则将该节点从 CLOSED 表中移出，重新加入 OPEN 表中。
+   8. 按某一任意方式或按某个试探值，重排OPEN表。
+   
+2. GO LOOP。
 
 2. 重排OPEN表意味着，在第(6)步中，将优先扩展哪个节点，**不同的排序标准对应着不同的搜索策略**。
 
@@ -1852,7 +1887,7 @@ f(x)=g(x)+h(x)
 
 ### 3-7 下列八数码难题：用A\*算法绘出八数码难题的搜索树；标记OPEN表、CLOSED表的节点；写出从初始状态到目标状态的最优解
 
-[详见](#八数码难题)
+[详见](#八数码难题✦)
 
 ### 3-12  把下列句子变换成子句形式
 
@@ -1868,7 +1903,7 @@ f(x)=g(x)+h(x)
 9.	更换变量名称
 
 
-1. (∀x){P(x)→P(x)}
+1. (∀x){P(x)⇒P(x)}
    1. 消去蕴含符号：(∀x){~P(x)∨P(x)}
 
    2. 2-6 无需进行操作
@@ -1877,7 +1912,7 @@ f(x)=g(x)+h(x)
 
    4. 8-9 无需进行操作
 
-2. (∀x)(∀y)(On(x,y)→Above(x,y))
+2. (∀x)(∀y)(On(x,y)⇒Above(x,y))
 
      1. 消去蕴含符号：(∀x)(∀y)(~On(x,y)∨Above(x,y))
 
@@ -1888,7 +1923,7 @@ f(x)=g(x)+h(x)
      4. 8-9 无需进行操作
 
 
-3. (∀x)(∀y)(∀z)(Above(x,y)∧Above(y,z)→Above(x,z))
+3. (∀x)(∀y)(∀z)(Above(x,y)∧Above(y,z)⇒Above(x,z))
 
    > 蕴含的优先级低于∧
    
@@ -1903,32 +1938,50 @@ f(x)=g(x)+h(x)
       1. 8-9 无需进行操作
 
 
-4. \~((∀x)P(x)→((∀y)(P(y)→P(f(x,y)))∧(∀y)(Q(x,y)→P(y)))))
+4. \~((∀x)P(x)⇒((∀y)(P(y)⇒P(f(x,y)))∧(∀y)(Q(x,y)⇒P(y)))))
 
    > 太难了，赌它不考
 
-   ![image-20230502162152915](https://img-blog.csdnimg.cn/4a1da12d87204ff09e77d9db9a8242a2.jpeg)
+   ![image-20230502162152915](https://img-blog.csdnimg.cn/260acde83dd840ee89f38bdc45d11290.jpeg)
 
-   ![image-20230502162202030](https://img-blog.csdnimg.cn/abe4a30aeb1d48248c93967649c34c88.jpeg)
+   ![image-20230502162202030](https://img-blog.csdnimg.cn/bb9b2e78898e499f948627b68578605a.jpeg)
 
 # 第4章 计算智能
 
-## 计算智能(CI)与人工智能(AI)的区别和关系
+## 计算智能
 
-* 计算智能是一种智力方式的低层认知，它与人工智能的区别只是认知层次从中层下降至低层而已。中层系统含有知识（精品），低层系统则没有。
+计算智能取决于制造者提供的数值数据，而不依赖于知识。计算智能是智力的低层认知。
 
-* 当一个系统只涉及数值（低层）数据，含有模式识别部分，不应用人工智能意义上的知识，而且能够呈现出
+## 计算智能系统
+
+* 当一个系统只涉及数值（低层）数据，含有模式识别部分，不应用人工智能意义上的知识，而且能够呈现出：
 
   1. 计算适应性；
+
   2. 计算容错性；
+
   3. 接近人的速度；
+
   4. 误差率与人相近
 
-  则该系统就是计算智能系统。
+* 则该系统就是**计算智能系统**。
 
-* 当一个**计算智能**系统以非数值方式加上知识（精品）值，即成为**人工智能系统**。
+## 计算智能(CI)与人工智能(AI)的区别和关系✦
 
-![image-20230502163107671](https://img-blog.csdnimg.cn/8b288f535a6146e29a6dbfed440eb0b7.jpeg)
+* 计算智能是一种智力方式的低层认知，它与人工智能的区别只是认知层次从中层下降至低层而已。中层系统含有**知识**（精品），低层系统则没有。
+* 当一个**计算智能**系统以非数值方式加上**知识**（精品）值，即成为**人工智能系统**。
+
+## 相关术语
+
+* ABC
+  * A－Artificial，表示人工的（非生物的）；
+  * B－Biological，表示物理的＋化学的＋（？）＝生物的；
+  * C－Computational，表示数学＋计算机
+* NN：神经网络
+* PR：模式识别
+* I：智能
+
+![image-20230502163107671](https://img-blog.csdnimg.cn/2deab5ae9ce74dc297393e50fe50af5a.jpeg)
 
 | 术语 |                          |                                 |
 | ---- | ------------------------ | ------------------------------- |
@@ -1963,9 +2016,9 @@ f(x)=g(x)+h(x)
 
 #### 神经元
 
-![image-20230502170216163](https://img-blog.csdnimg.cn/f0ba945f9c174e65919325551dac0b1d.jpeg)
+![image-20230502170216163](https://img-blog.csdnimg.cn/e0065d3069ad4d2b98fbcb895d0048ee.jpeg)
 
-神经元单元由多个输入x~i~，i=1,2,...,n和一个输出y组成。中间状态由输入信号的权和表示![image-20230502165901312](https://img-blog.csdnimg.cn/535e159e28d54ec7b16a8fe85efd0168.jpeg)
+神经元单元由多个输入x~i~，i=1,2,...,n和一个输出y组成。中间状态由输入信号的权和表示![image-20230502165901312](https://img-blog.csdnimg.cn/1cd35a2761bc413aa3828cdb568ed125.jpeg)
 
 * θ~j~为神经元单元的偏置（阈值）
 
@@ -1979,19 +2032,19 @@ f(x)=g(x)+h(x)
 
 * f(_)为输出变换函数。
 
-  ![image-20230502170327105](https://img-blog.csdnimg.cn/0e3660b1179d46fe9ac5cdace22e83f4.jpeg)
+  ![image-20230502170327105](https://img-blog.csdnimg.cn/cd2762ef9f3c4a44967e672a64d040cb.jpeg)
 
 #### 两类结构
 
 ##### 递归（反馈）网络
 
-![image-20230502170552008](https://img-blog.csdnimg.cn/7d5b82df3143463aaf2b7f787d8eb62a.jpeg)
+![image-20230502170552008](https://img-blog.csdnimg.cn/b526f8b740284a0dab51fbbbf15db908.jpeg)
 
 在递归网络中，多个神经元互连以组织一个互连神经网络
 
 ##### 前馈网络
 
-![image-20230502170600547](https://img-blog.csdnimg.cn/9bdebe74fa6e4de79b382e3a86af3a3f.jpeg)
+![image-20230502170600547](https://img-blog.csdnimg.cn/6d627658616341ffbd7d8f09f024a0ac.jpeg)
 
 前馈网络具有递阶分层结构，由同层神经元间不存在互连的层级组成
 
@@ -2045,28 +2098,28 @@ Reinforcement learning algorithms（增强学习）：采用一个“评论员�
 
 ##### 神经网络实现与逻辑
 
-![image-20230502171127748](https://img-blog.csdnimg.cn/e4203e08629549b6bb5e4a019fae7b64.jpeg)
+![image-20230502171127748](https://img-blog.csdnimg.cn/3dceb41b0fee44cca04fe634571dc4e0.jpeg)
 
 ##### 输入输出关系函数
 
-![image-20230502171136590](https://img-blog.csdnimg.cn/a579910523e94ebe8d2c752e7d6d654b.jpeg)
+![image-20230502171136590](https://img-blog.csdnimg.cn/dc4ed736792e453b864717fd7e65b3ad.jpeg)
 
 ##### 满足与(and)关系的权值
 
-![image-20230502171351710](https://img-blog.csdnimg.cn/ae747af4336740a7adc4dabc5bd5fa07.jpeg)
+![image-20230502171351710](https://img-blog.csdnimg.cn/108ac819e84947ea861c53e05a8b477e.jpeg)
 
 #### 或运算、非运算
 
 没找着，懒得写了
 
-#### 异或
+#### 异或★
 
 > 以下面两种结构的神经网络为例
 
 ##### 神经网络实现异或逻辑
 
-1. ![image-20230502172149702](https://img-blog.csdnimg.cn/030f09a7ea1c4125a704109e00a22aee.jpeg)
-2. ![image-20230502175500444](https://img-blog.csdnimg.cn/37b814349cf14fca9d52a97ad44d3028.jpeg)
+1. ![image-20230502172149702](https://img-blog.csdnimg.cn/c11e2a0bf66d40edaf9ff05242147c22.jpeg)
+2. ![image-20230502175500444](https://img-blog.csdnimg.cn/c3abb616b47f4b0d997db670f8f9eb3c.jpeg)
 
 ##### 函数
 
@@ -2075,11 +2128,37 @@ Reinforcement learning algorithms（增强学习）：采用一个“评论员�
    1. 输入输出关系函数函数
 
       1. y= f(x1·w3 + x2·w4 + z·w5)
-      2. z=f (x1·w1+x2·w2)
+      2. N~h~ \= z \=f(x1·w1+x2·w2)
 
-   2. 阈值函数
+   2. 阈值函数f
 
-      ![image-20230502175410051](https://img-blog.csdnimg.cn/ff7c8c0d31ab4498b529a8082576bbd8.jpeg)
+      ![image-20230502175410051](https://img-blog.csdnimg.cn/325dc411f0be4854bebce61150c5079a.jpeg)
+
+   3. 邻接矩阵
+
+      |       | N~I1~ | N~I2~ | N~h~ | N~O~ |
+      | ----- | ----- | ----- | ---- | ---- |
+      | N~I1~ | 0     | 0     | 0.3  | 1    |
+      | N~I2~ | 0     | 0     | 0.3  | 1    |
+      | N~h~  | 0     | 0     | 0    | -2   |
+      | N~O~  | 0     | 0     | 0    | 0    |
+
+   4. 权值向量(w1,w2,w3,w4,w5)
+
+      (0.3,0.3,1,1,-2)
+
+   5. 阈值向量
+
+      (0,0,0,0,0)
+
+   6. 真值表
+
+      | x1   | x2   | z/N~h~     | y             |
+      | ---- | ---- | ---------- | ------------- |
+      | 0    | 0    | 0<0.5=0    | 0<0.5=0       |
+      | 0    | 1    | 0.3<0.5=0  | 0+1=1>=0.5=1  |
+      | 1    | 0    | 0.3<0.5=0  | 0+1=1>=0.5=1  |
+      | 1    | 1    | 0.6>=0.5=1 | 1+1-2=0<0.5=0 |
 
 2. 网络2
 
@@ -2089,8 +2168,12 @@ Reinforcement learning algorithms（增强学习）：采用一个“评论员�
       2. N~h2~= f (x~1~·(-0.7) + x~2~·2.8-2.0)
       3. y=N~0~=f (N~h1~·2.102+N~h2~·3.121)
 
-   2. 邻接矩阵
+   2. 阈值函数f
 
+      ![image-20230502175410051](https://img-blog.csdnimg.cn/84cd36b73d9a425cab9a755ef3350311.jpeg)
+   
+   3. 邻接矩阵
+   
       |       | N~I1~ | N~I2~ | N~h1~ | N~h2~ | N~O~  |
       | ----- | ----- | ----- | ----- | ----- | ----- |
       | N~I1~ | 0     | 0     | 1.6   | -0.7  | 0     |
@@ -2098,15 +2181,10 @@ Reinforcement learning algorithms（增强学习）：采用一个“评论员�
       | N~h1~ | 0     | 0     | 0     | 0     | 2.102 |
       | N~h2~ | 0     | 0     | 0     | 0     | 3.121 |
       | N~O~  | 0     | 0     | 0     | 0     | 0     |
-
-   3. 阈值向量
-
+   
+   4. 阈值向量
+   
       (0,0,-1,-2,0)
-
-##### 满足异或(XOR)关系的权值
-
-1. 取权值向量(w1,w2,w3,w4,w5)为（0.3,0.3,3,1,1)
-2. 图中写了
 
 #### 基于神经网络的知识推理
 
@@ -2177,17 +2255,17 @@ todo
 
 3. 搜索精度：0.01
 
-   ![image-20230502200557988](https://img-blog.csdnimg.cn/cd8050b6e98c44fca10d659c52ded8ee.jpeg)
+   ![image-20230502200557988](https://img-blog.csdnimg.cn/119332e7d25a44ae8abf49868784932d.jpeg)
 
 4. 实际的搜索精度：0.009775
 
-   ![image-20230502200721739](https://img-blog.csdnimg.cn/05a71edc3bd54665bff54c31d07678b0.jpeg)
+   ![image-20230502200721739](https://img-blog.csdnimg.cn/84d4319ceaeb4acebc1691ef2a25699d.jpeg)
 
 5. 解码
 
    二进制信息转换成十进制公式
 
-   ![image-20230502201059679](https://img-blog.csdnimg.cn/cb43a682ab754fe893ea1f5e8ee853c5.jpeg)
+   ![image-20230502201059679](https://img-blog.csdnimg.cn/541da33c7aad4be8882294da5c4280dd.jpeg)
 
 #### 适应度
 
@@ -2218,6 +2296,8 @@ todo
 1. 轮盘赌选择(roulette wheel selection)
 
    1. 原理
+
+      ![image-20230506164241989](https://img-blog.csdnimg.cn/2d5fb2917297485cb9e18785f6dc0cf3.jpeg)
 
       1. 做一个单位圆，然后按各个染色体的选择概率将圆面划分为相应的扇形区域
       2. 转动轮盘，轮盘静止时指针指向某一扇区，即为选中扇区，相应的个体/染色体即被选中
@@ -2253,17 +2333,17 @@ todo
 
       设染色体s1 = 1011 0111 00，染色体s2 = 0001 1100 11，交换其后2位基因
 
-      ![image-20230502203032162](https://img-blog.csdnimg.cn/22e54fee1a8840f2899dbfc8613b791a.jpeg)
+      ![image-20230502203032162](https://img-blog.csdnimg.cn/9ffd668812f24a8b8ab06b1292b2f763.jpeg)
 
 2. (Two point crossover)两点交叉/(Multi point crossover)多点交叉
 
-   ![image-20230502203237477](https://img-blog.csdnimg.cn/2fc15dcd38d445899209233f35964cdd.jpeg)
+   ![image-20230502203237477](https://img-blog.csdnimg.cn/ac6e501f42f041aab24602ce3b1820a0.jpeg)
 
 3. (Uniform crossover)模版交叉/均匀交叉
 
 ##### 变异(mutation)
 
-![image-20230502203306249](https://img-blog.csdnimg.cn/60e5f61bb0244ea8b00b055214994416.jpeg)
+![image-20230502203306249](https://img-blog.csdnimg.cn/bd28c0bdd61245adbfece4e646245cdd.jpeg)
 
 ### 遗传算法
 
@@ -2286,7 +2366,7 @@ todo
 
 在遗传算法中，通过随机方式产生若干个所求解问题的数字编码，即染色体，形成初始群体；通过适应度函数给每个个体一个数值评价，淘汰低适应度的个体，选择高适应度的个体参加遗传操作，经过遗传操作后的个体集合形成下一代新的种群。对这个新种群进行下一轮进化。
 
-#### 遗传算法步骤
+#### 遗传算法步骤✦
 
 1. 初始化群体;
 2. 计算群体上每个个体的适应度值;
@@ -2298,7 +2378,7 @@ todo
 
 #### 算法流程图
 
-![image-20230502203519087](https://img-blog.csdnimg.cn/ee3e56588cba4996a7300d46744b74e7.jpeg)
+![image-20230502203519087](https://img-blog.csdnimg.cn/60fdceebc94a42eb88edce9ea7fa1415.jpeg)
 
 #### 精英策略
 
@@ -2313,9 +2393,9 @@ todo
 
 #### 书上P160例题
 
-![image-20230503214737741](https://img-blog.csdnimg.cn/37cdb9b9a09b450ba254c068101ef47c.jpeg)
+![image-20230503214737741](https://img-blog.csdnimg.cn/201a71cd10c84029a82de8eb9f4190e4.jpeg)
 
-![image-20230503214743625](https://img-blog.csdnimg.cn/83c17ca7c7464e1d90cfc098f510d5c1.jpeg)
+![image-20230503214743625](https://img-blog.csdnimg.cn/9a09e9096c2e4ec9b9c48fa1e9f814e8.jpeg)
 
 ## 人工生命
 
@@ -2377,7 +2457,9 @@ todo
 
 ###  4-16 [用遗传算法求f(x)=xcosx+2的最大值※](https://blog.csdn.net/ErinWang666/article/details/126216970)
 
-![image-20230504200410037](https://img-blog.csdnimg.cn/8a19247724854495a5216b0c82e06cce.jpeg)
+> 网上找的，估计算错了
+
+![image-20230504200410037](https://img-blog.csdnimg.cn/4aa6fff4c83f4efe895d8d0531dc66a6.jpeg)
 
 # 第6章 机器学习
 
@@ -2400,11 +2482,11 @@ todo
 2. 统计：有监督学习、无监督学习、半监督学习、增强
    学习
 
-## 基本结构
+## 基本结构✦
 
 1. 推理：环境、学习、知识库、执行
 
-   ![image-20230502222807075](https://img-blog.csdnimg.cn/c6f183e9e55c4930bd99d86e11b32dfa.jpeg)
+   ![image-20230502222807075](https://img-blog.csdnimg.cn/3b2553db3c21409c81286d16e1845d71.jpeg)
 
 2. 统计：学习模型、历史数据、新数据、未知属性
 
@@ -2416,7 +2498,7 @@ todo
 
 ### 学习模式
 
-![image-20230502205700804](https://img-blog.csdnimg.cn/512b6cb19fc94752b9e5efd85617054c.jpeg)
+![image-20230502205700804](https://img-blog.csdnimg.cn/d1defe8478ca4d999bcc925c865478f6.jpeg)
 
 1. 给定
 
@@ -2430,7 +2512,7 @@ todo
 
 ### 归纳概括规则（5条）
 
-![image-20230502210049733](https://img-blog.csdnimg.cn/0ce678ad4b694dbcb45f7ea83cbd2dbb.jpeg)
+![image-20230502210049733](https://img-blog.csdnimg.cn/09f0ac1975de4ca3bf76d12966d9a04e.jpeg)
 
 ### 学习方法
 
@@ -2453,23 +2535,23 @@ todo
 1. 正实例：产生正值决策的实例
 2. 负实例：产生负值决策的实例
 
-### 决策树构造算法
+### 决策树算法★
 
 > CLS和ID3选一个考
 
-#### CLS
+#### 决策树构造算法CLS
 
 ##### 算法流程
 
-![image-20230502210654478](https://img-blog.csdnimg.cn/976548b929954c2a85198e05c61cacd2.jpeg)
+![image-20230502210654478](https://img-blog.csdnimg.cn/5af0998f15224497ad45afaabb8b369d.jpeg)
 
 ##### 举例
 
-![image-20230502210743321](https://img-blog.csdnimg.cn/28b93ac4c2e74bf691aa2ccf43608176.jpeg)
+![image-20230502210743321](https://img-blog.csdnimg.cn/451195c8868d4586b371ea47ca046db6.jpeg)
 
-![image-20230502210751725](https://img-blog.csdnimg.cn/01ac7fbb715e4335974448ca1fd7df23.jpeg)
+![image-20230502210751725](https://img-blog.csdnimg.cn/3a21a89aa8c5482da22fec4635c27191.jpeg)
 
-#### [决策树学习算法ID3★](https://github.com/3210448723/HnustExam/blob/main/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0.md)
+#### [决策树学习算法ID3✦](https://github.com/3210448723/HnustExam/blob/main/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0.md)
 
 ##### 信息熵
 
@@ -2479,7 +2561,7 @@ todo
 
 ###### 公式
 
-![image-20221114214744952](https://img-blog.csdnimg.cn/f77e8eb655704d70b315c63964101642.jpeg)
+![image-20221114214744952](https://img-blog.csdnimg.cn/38fb8831740f4f67823915fab353f0f2.jpeg)
 
 ##### 信息增益
 
@@ -2489,22 +2571,23 @@ todo
 
 ###### 公式
 
-![image-20221114214751140](https://img-blog.csdnimg.cn/647f5285462c467fa893aa3574cb6d66.jpeg)
+![image-20221114214751140](https://img-blog.csdnimg.cn/d9fa8400c78642de9149774ea9fd2274.jpeg)
 
 #### 伪代码
 
 1. 来源[数据挖掘笔记](https://github.com/3210448723/HnustExam/blob/main/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%94%E8%AE%B0.md)
 
    * 输入：训练数据集D，特征集A ，阈值 $\epsilon$ 
-
-
+   
    * 输出：以node为根节点的——棵决策树
+   
+     ![image-20221114215347369](https://img-blog.csdnimg.cn/21be36d6b29349cf960f0614f19fd1d6.jpeg)
 
-     ![image-20221114215347369](https://img-blog.csdnimg.cn/e4babcaf1bfb4b0694417f5e3e673672.jpeg)
+2. 来源PPT（推荐，省略了信息熵的计算细节）
 
-2. 来源PPT
-
-   ![image-20230502211803106](https://img-blog.csdnimg.cn/594f836aa9a94ea5b4770def96d6667c.jpeg)
+   > A←Athributes中分类Examples能力最好的属性：具有最高信息增益的属性
+   
+   ![image-20230502211803106](https://img-blog.csdnimg.cn/d5efc73f70764514ab5e032d6d6fedbe.jpeg)
 
 ## 类比学习
 
@@ -2530,7 +2613,7 @@ todo
 
 #### 求解形式
 
-![image-20230502215757026](https://img-blog.csdnimg.cn/65d67ed18e314d6ab0bf144645d9c0f6.jpeg)
+![image-20230502215757026](https://img-blog.csdnimg.cn/5df2abd516154e3187b90fc82bf361e1.jpeg)
 
 给定
 
@@ -2592,7 +2675,7 @@ todo
 
 信号的正向传播，误差的反向传播
 
-#### 步骤
+#### 步骤✦
 
 1. 初始化
 2. 输入训练样本对，计算各层输出
@@ -2603,7 +2686,7 @@ todo
 
 #### 程序流程图
 
-![image-20230502220741183](https://img-blog.csdnimg.cn/43658cddd9004a0c8de06caf66206f65.jpeg)
+![image-20230502220741183](https://img-blog.csdnimg.cn/32e8f186cdf649ecb348bd470e41ddbc.jpeg)
 
 #### 基于Hopfield网络学习
 
@@ -2640,13 +2723,13 @@ Hopfield网络是一种具有正反相输出的带反馈人工神经元。
 
 ### 学习自动机
 
-![image-20230502221328817](https://img-blog.csdnimg.cn/8428adaa310d4dee8142e70e92d808c8.jpeg)
+![image-20230502221328817](https://img-blog.csdnimg.cn/a1397b1689d144ccb9524292735963bc.jpeg)
 
 ### 自适应动态程序设计（时差学习）
 
 在自适应动态程序设计中，状态i的效应值U(i)可以用下式计算：
 
-![image-20230502221418256](https://img-blog.csdnimg.cn/e7316378cf2e44a3b573cfd46843d718.jpeg)
+![image-20230502221418256](https://img-blog.csdnimg.cn/abbf0ff7edae4cb385b370c4bce5eeba.jpeg)
 
 ### Q学习（Q-值代替效用值）
 
@@ -2682,19 +2765,23 @@ Hopfield网络是一种具有正反相输出的带反馈人工神经元。
 
 ### 6-1 什么是学习和机器学习?为什么要研究机器学习?
 
-1. **学习**就是系统在不断重复的工作中对本身能力的增强或者改进，使得系统在下一次执行同样任务或类似任务时，会比现在做得更好或效率更高。
-2. **机器学习**是研究如何使用机器来模拟人类学习活动的一门学科，是机器学习是一门研究机器获取新知识和新技能，并识别现有知识的学问。这里所说的“机器”，指的就是计算机。
-3. 原因：现有的计算机系统和人工智能系统没有什么学习能力，至多也只有非常有限的学习能力，因而不能满足科技和生产提出的新要求。
+1. **学习**就是系统在不断**重复**的工作中对本身能力的**增强或者改进**，使得系统在下一次执行同样任务或类似任务时，会比现在**做得更好或效率更高**。
+
+2. **机器学习**是研究如何使用机器来**模拟人类学习活动**的一门学科，是一门研究机器获取新知识和新技能，并识别现有知识的学问。
+
+   > 这里所说的“机器”，指的就是计算机。
+
+3. 原因：现有的计算机系统和人工智能系统没有什么学习能力，至多也只有**非常有限**的学习能力，因而**不能满足**科技和生产提出的新要求。
 
 ### 6-2 试述机器学习系统的基本结构，并说明各部分的作用。
 
-![image-20230502222807075](https://img-blog.csdnimg.cn/3cc83b63498d45e6b356b2952a8568dc.jpeg)
+![image-20230502222807075](https://img-blog.csdnimg.cn/fab6fead936a440bb8b54e27a9425931.jpeg)
 
-1. 环境向系统的学习部分提供某些信息
-2. 学习部分利用这些信息修改知识库，以增进系统执行部分完成任务的效能
-3. 执行部分根据知识库完成任务，同时把获得的信息反馈给学习部分。
+1. **环境**向系统的**学习**部分提供某些**信息**
+2. 学习部分利用这些信息**修改**知识库，以增进系统执行部分完成任务的效能
+3. 执行部分根据知识库**完成任务**，同时把获得的**信息反馈**给学习部分。
 
-影响学习系统设计的最重要的因素是环境向系统提供的信息。更具体地说是信息的质量。
+影响学习系统设计的最重要的因素是环境向系统提供的信息。更具体地说是**信息的质量**。
 
 ###  6-3 简介决策树学习的结构※
 
@@ -2710,14 +2797,7 @@ Hopfield网络是一种具有正反相输出的带反馈人工神经元。
 
 ### 6-9 用C语言编写一套计算机程序，用于执行 BP 学习算法
 
-BP算法实现步骤：
-
-1. 初始化
-2. 输入训练样本对，计算各层输出
-3. 计算网络输出误差
-4. 计算各层误差信号
-5. 调整各层权值
-6. 检查网络总误差是否达到精度要求。满足，则训练结束；不满足，则返回步骤2
+详见[BP算法](#反向传播（BP）算法)实现步骤
 
 ###  什么是知识发现？知识发现与数据挖掘有何关系？※
 
@@ -2739,9 +2819,11 @@ BP算法实现步骤：
 
 ### 看法
 
-人工智能在过去的几十年里取得了巨大的进步。随着计算能力的提高和大量数据的积累，深度学习和机器学习技术得 到了广泛的应用。AI已经渗透到了诸如自动驾驶、医疗诊断、语言翻译、虚拟助手等许多行业。在未来，我们预期AI 将在各个领域产生更多的影响，提高生产效率，改变人们的生活方式。 然而，AI发展也引发了一些关切。例如，隐私、数据安全、失业、道德伦理等问题需要解决。因此，政策制定者、研 究人员和产业界需要共同努力，确保AI技术的安全、可靠、公平和透明。
+* 人工智能在过去的几十年里取得了**巨大的进步**。随着计算能力的提高和大量数据的积累，深度学习和机器学习技术得到了**广泛的应用**。AI已经渗透到了诸如自动驾驶、医疗诊断、语言翻译、虚拟助手等许多行业。
+* 在未来，我们预期 AI 将在各个领域产生更多的影响，提高生产效率，改变人们的生活方式。 
+* 然而，AI发展也引发了一些关切。例如，隐私、数据安全、失业、道德伦理等问题需要解决。因此，政策制定者、研究人员和产业界需要共同努力，确保AI技术的安全、可靠、公平和透明。
 
-### 研究热点
+### [研究热点](#1-11 人工智能的主要研究和应用领域是什么？其中，哪些是新的研究热点？)
 
 1. 强化学习：通过让机器学习在特定环境中进行试错，以获取最佳策略的方法。在游戏、机器人控制和自动驾驶等领域有广泛应用。
 2. 生成对抗网络（GAN）：一种用于生成数据的深度学习方法，通过让两个神经网络相互竞争来提高生成数据的质量。广泛应用于图像合成、风格迁移等任务。
